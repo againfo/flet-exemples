@@ -1,2 +1,2 @@
-# flet-exemples
+# flet-examples
 Some Flet examples scripts 
